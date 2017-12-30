@@ -38,18 +38,18 @@ Clone the repository and change directory to NeuroImpression
 ## Contributors
 
 <B>Shivam Kapoor</B>
-                  <p style="font-size: 14px;"><B>Project Leader and Front-End Developer</B><br>
+                  <p style="font-size: 14px;"><B>Front-End and Back-End Developer</B><br>
                    <B>Github:</B> ConanKapoor<br>
                    <B>E-mail:</B> kapoor.shivam88@gmail.com<br>
                    <B>Contact:</B> (+91) 9521458982<br>
                    </p>
 <B>Abhishek Singh</B>
-                  <p style="font-size: 14px;"><B>DATA SCIENTIST</B><br>
+                  <p style="font-size: 14px;"><B>Data Scientist</B><br>
                   <B>Github:</B> absingh31<br>
                   <B>E-mail:</B> absinghemail@gmail.com<br>
                   <B>Contact:</B> (+91) 8072561171<br></p>
 <B>Sridhar Swain</B>
-                  <p style="font-size: 14px;"><B>Mobile and Back-End Developer</B><br>
+                  <p style="font-size: 14px;"><B>Android and Back-End Developer</B><br>
                   <B>Github:</B> sridharswain<br>
                   <B>E-mail:</B> sridharswain25@hotmail.com<br>
                   <B>Contact:</B> (+91) 9790700912<br>
